@@ -4,8 +4,8 @@
 
 Thank You for taking the time to view my GitHub Profile! 😊
 
-Lets look at the Leetcode Profile First 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+Lets look at the Leetcode Profile First <br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/pratyaksh_mishra?ext=heatmap)
 
 ![](https://komarev.com/ghpvc/?username=Pratyaksh-hub&color=brightgreen)
 
