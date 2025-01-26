@@ -1,7 +1,5 @@
 ## Hello!  <img src="https://media.tenor.com/EgBho6VyZQ4AAAAM/hi.gif" width="29px"> 
 
-<!-- Banner Background -->
-![Banner](image.png)
 <img src="https://media.tenor.com/vjSLMYwnjZEAAAAM/hey.gif" align="right">
 
 Thank You for taking the time to view my GitHub Profile! 😊
@@ -20,5 +18,4 @@ My name is **Pratyaksh Mishra**. Armed with a B.Tech. in Computer Science and En
 - ✔️ Oracle SQL <br>
 - ✔️ Rest & SOAP <br>
 - ✔️ Serverless Architecture (to create scalable, efficient digital solutions) <br>
-- ✔️  <br>
 <br>
