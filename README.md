@@ -1,4 +1,4 @@
-## Hello!  <img src="https://media.tenor.com/EgBho6VyZQ4AAAAM/hi.gif" width="29px"> 
+## Hello!  <img src="https://media.tenor.com/4BkYeeOwEUgAAAAM/waving-wave.gif" width="29px"> 
 
 <img src="https://media.tenor.com/vjSLMYwnjZEAAAAM/hey.gif" align="right">
 
