@@ -4,6 +4,9 @@
 
 Thank You for taking the time to view my GitHub Profile! 😊
 
+Lets look at the Leetcode Profile First 
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+
 ![](https://komarev.com/ghpvc/?username=Pratyaksh-hub&color=brightgreen)
 
 My name is **Pratyaksh Mishra**. Armed with a B.Tech. in Computer Science and Engineering degree, I am well-versed in Java, Spring Boot, SQL.
